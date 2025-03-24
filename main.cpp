@@ -1,10 +1,4 @@
 
-/*
-*  main.cpp
-* Tassilo Armleder
-* 2/03/24
-* Main function
-*/
 
 #include <iostream>
 #include <fstream>
