@@ -1,9 +1,4 @@
-/*
-*  HuffmanCoder.h
-* Tassilo Armleder
-* 2/03/24
-*  Header file for the HuffmanCoder class that contains the encode and edocde functions as well as multiple helper methods
-*/
+
 
 #ifndef _HUFFMAN_CODER
 #define _HUFFMAN_CODER
