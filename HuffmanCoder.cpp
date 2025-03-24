@@ -1,10 +1,4 @@
 
-/*
-*  HuffmanCoder.cpp
-* Tassilo Armleder
-* 2/03/24
-*  Implimentation of HuffmanCoder.h
-*/
 
 #include "HuffmanCoder.h"
 
